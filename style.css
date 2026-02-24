@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #6f4e37 !important;
+}
+
+.navbar-brand {
+    font-family: 'Fredoka One', cursive;
+    font-size: 1.5rem;
+}
+
+.nav-link:hover {
+    color: #f8e296 !important;
+}
