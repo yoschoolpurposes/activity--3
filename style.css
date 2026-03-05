@@ -6,7 +6,7 @@
   text-align: center;
   padding: 5rem 2rem 4rem 2rem;
   margin-bottom: 3.5rem;
-  color: #b7284e;
+  color: #cf6581;
   position: relative;
   overflow: hidden;
 }
@@ -19,7 +19,7 @@
 }
 .hero-landing .hero-sub {
   font-size: 1.3rem;
-  color: #7f393b;
+  color: #e37f82;
   margin: 2rem auto 1.7rem auto;
   max-width: 550px;
   font-weight: 700;
@@ -39,7 +39,7 @@
   text-decoration: none;
 }
 .hero-cta-btn:hover {
-  background: #e6587b;
+  background: #cf6581;
 }
 
 /* FEATURES SECTION */
@@ -80,7 +80,7 @@
 }
 .picks-section h2 {
   font-family: 'Fredoka One', cursive;
-  color: #b7284e;
+  color: #944d60;
   font-weight: 900;
   font-size: 2.1em;
   text-align: center;
